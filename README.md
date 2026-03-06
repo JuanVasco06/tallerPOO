@@ -1,33 +1,33 @@
 # tallerPOO
 
-Repositorio de ejercicios del taller de Programación Orientada a Objetos en C#.
+Repository of exercises for the Object-Oriented Programming workshop in C#.
 
-## Estructura del proyecto
+## Project structure
 
-- `Exercise28`: La viga más resistente
-- `Exercise37`: Caballos en conflicto
+- `Exercise28`: The Most Resistant Beam
+- `Exercise37`: Knights in Conflict
 
-## Reglas usadas
+## Rules used
 
-- Todo el código fuente está escrito en inglés.
-- Los mensajes que interactúan con el usuario están escritos en español.
-- Cada ejercicio está organizado como un proyecto independiente dentro de la misma solución.
+- All source code is written in English.
+- User interaction messages are written in Spanish.
+- Each exercise is organized as an independent project within the same solution.
 
-## Ejercicio 28 - La viga más resistente
+## Exercise 28 - The Most Resistant Beam
 
-Este programa permite analizar una viga representada por caracteres:
+This program analyzes a beam represented by characters:
 
 - Bases: `%`, `&`, `#`
-- Largueros: `=`
-- Conexiones: `*`
+- Beams: `=`
+- Connections: `*`
 
-El sistema valida si la viga está bien construida y determina si la base soporta el peso total.
+The system validates whether the beam is well built and determines whether the base supports the total weight.
 
-## Ejercicio 37 - Caballos en conflicto
+## Exercise 37 - Knights in Conflict
 
-Este programa recibe posiciones de caballos en un tablero de ajedrez y analiza, para cada caballo, con cuáles otros caballos entra en conflicto según el movimiento de un caballo en ajedrez.
+This program receives the positions of knights on a chessboard and analyzes, for each knight, which other knights are in conflict with it according to the knight's movement in chess.
 
-## Tecnologías usadas
+## Technologies used
 
 - C#
 - .NET
